@@ -22,29 +22,22 @@ bio: My research interests include wildlife energetics, the effects of disturban
 
 # Interests to show in About widget
 interests:
-  - Behavioral ecology
-  - Effects of disturbance
-  - Community dyanamics
-  - Wildlife photography
-  - Outdoor recreation
-  - Equity, diversity, and inclusion in STEM
-  - Queer representation in the sciences
+  - Applied Conservation Science
+  - Geospatial Science, Remote Sensing, and Photogrammetry
+  - Marine and Coastal Conservation
+  - Structured Decision-making (SDM) for resource management
+  - Science Communication
+  - Diversity, equity, and inclusion in STEM
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Wildlife Science
+    - course: Ph.D. in Fisheries, Wildlife, and Conservation Science
       institution: Oregon State University
-      year: September 2024 - current
-    - course: M.Sc. in Marine Science
-      institution: Moss Landing Marine Laboratories
-      year: August 2021 - current
-    - course: B.Sc. in Environmental Science
-      institution: University of Idaho
-      year: 2019
-    - course: BSc in Wildlife Science
-      institution: University of Idaho
-      year: 2019
+      year: September 2021 - current
+    - course: B.Sc. in Fisheries, Wildlife, and Conservation Biology 
+      institution: Colorado State University
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
