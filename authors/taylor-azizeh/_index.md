@@ -1,23 +1,21 @@
 ---
 # Display name
-title: Taylor Azizeh
+title: Carina Kusaka
 
 # Full name (for SEO)
-first_name: Taylor
-last_name: Azizeh
+first_name: Carina
+last_name: Kusaka
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Fellow / Master's Candidate (she/her/hers)
+role: Conservation Scientist | Ph.D. Candidate (she/her/hers)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Marine Mammal Institute @ Oregon State University
-    url: [https://mmi.oregonstate.edu]
-  - name: Moss Landing Marine Laboratories
-    url: [https://mlml.sjsu.edu/]
+  - name: Department of Fisheries, Wildlife, and Conservation Sciences,
+  - Oregon State University
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include wildlife energetics, the effects of disturbance, polar biology, and more!
