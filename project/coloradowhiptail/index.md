@@ -1,11 +1,11 @@
 ---
-title: Synthesis of historical whaling catch records of southern right whales in the Indo-Pacific
-summary: Ongoing project attempting to synthesis historical whaling catch records to better understand the impact and scale of historical southern right whaling.
+title: Movement Ecology: Habitat and age dependent search behavior in Colorado lizards
+summary: The movement of animals reflects how they perceive and respond to variation in their environment. Movement can be integral to activities such as foraging, breeding, dispersal, and migration. An appreciation of movement across spatial and temporal scales can also lead to an increased understanding of ecological processes that affect animals. We compared movement and space use patterns of foraging adult and juvenile Colorado checkered whiptails (Aspidoscelis neotesselatus) in different habitat types.
 tags:
-  - whales
-  - whaling
-  - SRW
-date: '2017-04-27T00:00:00Z'
+  - movement
+  - lizards
+  - behavioral ecology
+date: '2025-05-11T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
