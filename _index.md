@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-05-11
 type: landing
 
 sections:
@@ -10,7 +10,7 @@ sections:
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: taylor-azizeh
+      username: carina-kusaka
   #- block: markdown
     #id: about   
     #content:
@@ -407,19 +407,19 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: taylorazizeh@gmail.com
+      email: carina.kusaka@oregonstate.edu
       phone: 
       address:
         street: 2030 SE Marine Science Dr
-        city: Newport
+        city: Corvallis
         region: OR
-        postcode: '97365'
+        postcode: '97331'
         country: United States
         country_code: US
       # Coordinates to display a map - set your map provider in `params.yaml`
-      coordinates:
-        latitude: '30.4204'
-        longitude: '-89.0185'
+     # coordinates:
+      #  latitude: '30.4204'
+       # longitude: '-89.0185'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
