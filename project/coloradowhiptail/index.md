@@ -1,5 +1,5 @@
 ---
-title: Movement Ecology: Habitat and age dependent search behavior in Colorado lizards
+title: Movement Ecology | Habitat and age dependent search behavior in Colorado lizards
 summary: The movement of animals reflects how they perceive and respond to variation in their environment. Movement can be integral to activities such as foraging, breeding, dispersal, and migration. An appreciation of movement across spatial and temporal scales can also lead to an increased understanding of ecological processes that affect animals. We compared movement and space use patterns of foraging adult and juvenile Colorado checkered whiptails (Aspidoscelis neotesselatus) in different habitat types.
 tags:
   - movement
