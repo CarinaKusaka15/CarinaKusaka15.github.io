@@ -8,7 +8,7 @@ tags:
 date: '2025-05-11T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://mlml.sjsu.edu/birdmam/emperor-penguin-expedition-2022-season/'
+# external_link: 'https://mlml.sjsu.edu/birdmam/emperor-penguin-expedition-2022-season/'
 
 image:
   caption: 
