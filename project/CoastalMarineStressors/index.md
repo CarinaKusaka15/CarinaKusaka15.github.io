@@ -1,14 +1,17 @@
 ---
-title: Synthesis of historical whaling catch records of southern right whales in the Indo-Pacific
-summary: Ongoing project attempting to synthesis historical whaling catch records to better understand the impact and scale of historical southern right whaling.
+title: Coastal and Marine Ecosystems, CASC State of Knowledge Report
+summary: Co-authored the Coastal and Marine Ecosystems section: Interaction of Climate Change and Ecosystem Stressors, in collaboration with the USGS Climate Adaptation Science Center (CASC). Synthesized recent literature on the interaction of climate change and ecosystem stressors to the Pacific Region, and developed fact sheets for managers and decision-makers. 
+
+Publication in Review. 
+
 tags:
-  - whales
-  - whaling
-  - SRW
-date: '2017-04-27T00:00:00Z'
+  - climate change
+  - coastal and marine ecosystem stressors 
+  - CASC
+date: '2025-05-11T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+# external_link: ''
 
 image:
   caption: 
